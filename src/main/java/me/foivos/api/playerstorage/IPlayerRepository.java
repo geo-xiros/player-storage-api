@@ -1,4 +1,4 @@
-package me.foivos;
+package me.foivos.api.playerstorage;
 
 import java.util.UUID;
 
